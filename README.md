@@ -1,6 +1,6 @@
 <h1>Cloud-Based Ticket System on Windows 10 Using Microsoft Azure</h1>
 <h2>Description</h2>
-This project offers a step-by-step guide for <b>deploying</b>, <b>configuring</b> and presenting <b>use cases</b> of a ticketing system using osTicket open-source on a Windows 10 virtual machine in Microsoft Azure. It includes comprehensive instructions on setting up prerequisites, installing necessary software, and configuring the osTicket application. 
+This project offers a step-by-step guide for <b>creating</b>, <b>configuring</b>, <b>deploying</b> and presenting <b>use cases</b> of a ticketing system using osTicket open-source on a Windows 10 virtual machine in Microsoft Azure. It includes comprehensive instructions on setting up prerequisites, installing necessary software, and configuring the osTicket application. 
 <br />
 <br />
 The guide covers everything from virtual machine creation in Microsoft Azure and prerequisite installations to post-installation setup, including administration, user management, and ticket resolution. Ideal for home network support, it provides a robust ticketing solution with detailed steps for ensuring a fully functional and efficient support system.
