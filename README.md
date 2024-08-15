@@ -26,7 +26,7 @@ Due to the depth of the project, it's been broken down into 4 parts:
   - 🛠️ Prerequisites and Installations
   - ⚙️ Post-Installation and Configurations
   - 🚀 Deployment in a LIVE environment
-  - 🎫 Use Cases
+  - 🎫 Use Cases from REAL users
 <br />
 This will be found below.
 
