@@ -1,20 +1,9 @@
-<h1>Helpdesk Ticketing System Using Microsoft Azure Virtual Machines (Windows 10)</h1>
-<h2>Description</h2>
+<h2>Helpdesk Ticketing System Using Microsoft Azure Virtual Machines (Windows 10)</h2>
 I implemented a fully functional osTicket system on a Windows 10 virtual machine in Microsoft Azure, designed for home network support. This project showcases my skills in cloud infrastructure, system administration, and IT service management. 
 <br />
 <br />
 This helpdesk can be accessed from here: www.ervintechsupport.com
 <br />
-<br />
-Key accomplishments: <br /> <br />
-
-- Deployed and configured a Windows 10 VM on Microsoft Azure
-- Set up IIS web server, PHP, MySQL, and related components
-- Installed and customized osTicket for specific support needs
-- Configured user roles, departments, and teams within osTicket
-- Implemented Service Level Agreements (SLAs) and help topics
-- Deployed the system to a live environment with a custom domain name and SSL certificate for secure access
-- Currently managing and resolving real user tickets for technical support
 <br />
 <p align="center">
 <img src="/IT-Helpdesk-Website-LIVE.PNG" height="80%" width="80%"/>
@@ -60,3 +49,14 @@ This will be found below.
 - <b>PHP</b>
 - <b>SQL</b>
 - <b>SSL</b>
+
+<h3> Key accomplishments: </h3>
+
+- Deployed and configured a Windows 10 VM on Microsoft Azure
+- Set up IIS web server, PHP, MySQL, and related components
+- Installed and customized osTicket for specific support needs
+- Configured user roles, departments, and teams within osTicket
+- Implemented Service Level Agreements (SLAs) and help topics
+- Deployed the system to a live environment with a custom domain name and SSL certificate for secure access
+- Currently managing and resolving real user tickets for technical support
+<br />
