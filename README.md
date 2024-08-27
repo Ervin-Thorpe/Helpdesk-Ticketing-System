@@ -1,5 +1,5 @@
 <h2>Helpdesk Ticketing System Using Microsoft Azure Virtual Machines (Windows 10)</h2>
-I implemented a fully functional osTicket system on a Windows 10 virtual machine in Microsoft Azure, designed for home network support. This project showcases my skills in cloud infrastructure, system administration, and IT service management. 
+I implemented a Helpdesk Ticketing System on a Windows 10 virtual machine in Microsoft Azure, designed for home network support. This project showcases my skills in cloud infrastructure, system administration, and IT service management. 
 <br />
 <br />
 This helpdesk can be accessed from here: www.ervintechsupport.com
@@ -30,7 +30,7 @@ This will be found below.
   - [Project Link: Azure osTicket Prereqs and Installs](https://github.com/Ervin-Thorpe/Azure-osTicket-Prereqs-and-Installs)
 - ⚙️ Part 2: Focusing on post-installations and configurations for the cloud-based ticketing system.
   - [Project Link: Azure osTicket Post-Installs and Configs](https://github.com/Ervin-Thorpe/Azure-osTicket-Post-Install-and-Config)
-- 🚀 Part 3: Focusing on the deployment in a LIVE environment for the cloud-based ticketing system.
+- 🚀 Part 3: Focusing on the deployment in a LIVE environment for the cloud-based ticketing system. (PLEASE NOTE! There's some issues regarding registering, I'll be fixing this)
   - [Project Link: Azure osTicket LIVE Deployment](https://github.com/Ervin-Thorpe/Azure-osTicket-LIVE-Deployment)
 - 🎫 Part 4: Focusing on use cases for the cloud-based ticketing system.
   - Project Link: Azure osTicket Use Cases - (Currently Being Worked On)
