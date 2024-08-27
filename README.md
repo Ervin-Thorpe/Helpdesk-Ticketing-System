@@ -2,7 +2,8 @@
 I implemented a Helpdesk Ticketing System on a Windows 10 virtual machine in Microsoft Azure, designed for home network support. This project showcases my skills in cloud infrastructure, system administration, and IT service management. 
 <br />
 <br />
-This helpdesk can be accessed from here: www.ervintechsupport.com
+This helpdesk can be accessed from here: www.ervintechsupport.com <br />
+(PLEASE NOTE! There's some issues regarding registering, I'll be fixing this)
 <br />
 <br />
 <p align="center">
