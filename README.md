@@ -3,7 +3,6 @@ I implemented a Helpdesk Ticketing System on a Windows 10 virtual machine in Mic
 <br />
 <br />
 This helpdesk can be accessed from here: www.ervintechsupport.com <br />
-(PLEASE NOTE! There's some issues regarding registering. I'm currently working on a fix to resolve this issue ASAP)
 <br />
 <br />
 <p align="center">
